@@ -1,1 +1,2 @@
 # projectDrumSet
+A drum set of 7 activated by key press or mouse clicks done using in HTML, CSS and JavaScript.
